@@ -1,0 +1,10 @@
+REACT adalah sebuah framework javascript yang digunakan untuk membangun aplikasi web ataupun mobile ( REACT NATIVE ) dengan no refresh, dengan memodifikasi DOM yang ada di dalamnya.
+
+Jadi, DOM ( Document Object Model ) ? Object Standard dari HTML, yang memungkinan javascript untuk mengakses & memanipulasi elemen dan style dari situs web.
+
+REACT memiliki keunggulan di 2 hal :
+- JSX / JS >> Extension syntax javascript yang memungkinkan programmer untuk memodifikasi DOM dengan kode bergaya HTML.
+- Virtual DOM >> Fitur dari REACT yang memungkinan kita untuk merubah DOM asli tanp harus refresh.
+
+Cara membuat REACT : https://reactjs.org/docs/create-a-new-react-app.html
+Perlu diperhatikan : Node > 14 & npm > 5.6
